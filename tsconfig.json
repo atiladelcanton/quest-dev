@@ -6,7 +6,7 @@
         "esModuleInterop": true,
         "allowJs": true,
     },
-    "jsoncompilerOptions"{
+    "jsoncompilerOptions": {
         "strictNullChecks": true
     }
 }

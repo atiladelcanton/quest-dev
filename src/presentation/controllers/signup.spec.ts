@@ -1,5 +1,5 @@
-import { MissingParamError } from "../../errors/missing-param-error";
-import { httpRequest } from "../../protocols/http";
+import { MissingParamError } from "../errors/missing-param-error";
+import { httpRequest } from "../protocols/http";
 import { SignUpController } from "./signup";
 
 describe('SignUp Controller', () => {
